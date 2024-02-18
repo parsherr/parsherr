@@ -5,6 +5,9 @@ Back-End Developer<br>
 born in Turkey.<br>
 currently studying JS and CSS.
 
+## 🌐 Discord Profile:
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/689447667465453599?theme=dark&bg=272727)](https://discord.com/users/689447667465453599)
+## 🪐 Banner:
 ![parsher baner](https://github.com/parsherr/parsherr/assets/106106051/c5ca7c79-c624-4589-9649-71a6222fa06d)
 
 
