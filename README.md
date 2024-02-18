@@ -1,9 +1,12 @@
 
 # 💫 About Me:
-17 y.o. <br>Back-End Developer<br>born in Turkey.<br>currently studying JS and CSS.
-### Hi there 👋, Parsher
-#### Back-End Developer
-![Back-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+17 y.o. <br>
+Back-End Developer<br>
+born in Turkey.<br>
+currently studying JS and CSS.
+
+![parsher baner](https://github.com/parsherr/parsherr/assets/106106051/c5ca7c79-c624-4589-9649-71a6222fa06d)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/bdfd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCKpRtKCWoZMNeiIRviOtd1w) 
