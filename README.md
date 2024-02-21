@@ -6,7 +6,7 @@ born in Turkey.<br>
 currently studying JS and CSS.
 
 ## 🪐 Banner:
-![parsher baner](https://github.com/parsherr/parsherr/assets/106106051/c5ca7c79-c624-4589-9649-71a6222fa06d)
+![last-version](https://github.com/parsherr/parsherr/assets/106106051/266966e9-76fb-4ad2-b5fb-6c76c0ed1997)
 
 
 ## 🌐 Socials:
