@@ -15,5 +15,4 @@ currently studying JS and CSS.
 ## 🌐 Discord Profile:
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/689447667465453599?theme=dark&bg=272727)](https://discord.com/users/689447667465453599)
 
-![last-version](https://github.com/parsherr/parsherr/assets/106106051/266966e9-76fb-4ad2-b5fb-6c76c0ed1997)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
