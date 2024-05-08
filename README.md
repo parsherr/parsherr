@@ -1,6 +1,6 @@
 <img src="./header.svg" width="10000">
 
-# 💫 About Me: <img src="https://camo.githubusercontent.com/0df1c27a194a654fe3b03c9dfe318fb0c9a62e994ed1042e611408aa3f4fa3f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"> 
+# 💫 About Me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 17 y.o. <br>
 Back-End Developer<br>
 born in Turkey.<br>
