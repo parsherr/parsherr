@@ -2,7 +2,7 @@
 
 # 💫 About Me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 17 y.o. <br>
-Full-Stack Developer<br>
+Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 Content Creator<br>
 born in Turkey.<br>
 my portfolio site : https://parsher.xyz<br>
