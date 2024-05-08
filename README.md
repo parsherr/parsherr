@@ -1,3 +1,4 @@
+<img src="./header.svg" width="10000">
 
 # 💫 About Me:
 17 y.o. <br>
