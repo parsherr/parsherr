@@ -4,7 +4,8 @@
 17 y.o. <br>
 Back-End Developer<br>
 born in Turkey.<br>
-currently studying node.js and express.js
+my portfolio site : https://parsher.xyz<br>
+currently studying node.js, express.js and react
 
 ## 🪐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/bdfd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@parsher_) [![site](https://img.shields.io/badge/website-%237209DA.svg?logo=Google&logoColor=white)](https://parsher.xyz) 
