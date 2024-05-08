@@ -9,6 +9,7 @@ my portfolio site : https://parsher.xyz<br>
 currently studying node.js, express.js and react
 
 <img src="./status.svg" width="10000">
+<h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Page Views:</h1>
 <img src="https://count.getloli.com/get/@parsherr?theme=gelbooru">
 
 ## 🪐 Socials:
