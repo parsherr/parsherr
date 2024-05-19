@@ -1,26 +1,50 @@
+<div align="center">
+  <a href="https://egirl.ing/" >
+   <img src="https://lanyard.kyrie25.me/api/689447667465453599?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+  </a>
+</div>
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <img src="./header.svg" width="10000">
 
 # 💫 About Me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-17 y.o. <br>
-Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
-Content Creator<br>
-born in Turkey.<br>
-my portfolio site : https://parsher.xyz<br>
-currently studying node.js, express.js and react
+  <div align="center">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+  </div>
+<li>
+ <b>Name:</b> Doğukan</li>
+  <li>
+ <b>Age:</b> 17</li>
+  <li>
+ <b>Live in:</b> Turkey</li>
+<li>
+<b>Fursona:</b> Snow Fox <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</li>
+<li>
+<b>Loves:</b> Music, Anime, Chat in Discord and VSCode.
+</li>
+<li>
+<b>Gender:</b> he/him/Male
+</li>
+<li>
+<b>Site:</b> https://parsher.xyz
+</li>
+<li>
+<b>Hobbys:</b> Digital drawing, Making youtube videos and Software.
+</li>
 
 <img src="./status.svg" width="10000">
+<div align="center">
 <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Page Views:</h1>
 <img src="https://count.getloli.com/get/@parsherr?theme=gelbooru">
-
-## 🪐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/bdfd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@parsher_) [![site](https://img.shields.io/badge/website-%237209DA.svg?logo=Google&logoColor=white)](https://parsher.xyz) 
+</div>
 
 
-# 💻 Tech Stack:
+<div align="center">
+  <h1>💻 Tech Stack:</h1>
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bots,discordjs,express,ai,lua,mongodb,nodejs,ps,pr,react,robloxstudio,ts,vscode,vercel)](https://skillicons.dev)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsherr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-## 🌐 Discord Profile:
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/689447667465453599?theme=dark&bg=272727)](https://discord.com/users/689447667465453599)
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
