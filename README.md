@@ -20,9 +20,6 @@
 <b>Fursona:</b> Snow Fox <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </li>
 <li>
-<b>Loves:</b> Music, Anime, Chat in Discord and VSCode.
-</li>
-<li>
 <b>Gender:</b> he/him/Male
 </li>
 <li>
