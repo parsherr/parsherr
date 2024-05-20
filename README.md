@@ -17,7 +17,7 @@
   <li>
  <b>Live in:</b> Turkey</li>
 <li>
-<b>Fursona:</b> Snow Fox <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<b>Wanna full stack</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </li>
 <li>
 <b>Gender:</b> he/him/Male
