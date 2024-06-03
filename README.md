@@ -1,4 +1,4 @@
-<a href="https://www.razer.com/cortex/"><img src="https://deals-assets-cdn.razerzone.com/postcard/afcc3a45aecd450da5e42228f1520dda.png"/></a>
+<img src="https://deals-assets-cdn.razerzone.com/postcard/afcc3a45aecd450da5e42228f1520dda.png"/>
 <div align="center">
   <a href="https://egirl.ing/" >
    <img src="https://lanyard.kyrie25.me/api/689447667465453599?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
