@@ -20,7 +20,7 @@
 <b>Wanna full stack</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </li>
 <li>
-<b>Gender:</b> he/him/Male <img src="https://cdn3.emoji.gg/emojis/3407_legsinstockings.png" width="30">
+<b>Gender:</b> he/him/Male
 </li>
 <li>
 <b>Site:</b> https://parsher.xyz
