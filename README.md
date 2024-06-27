@@ -37,7 +37,7 @@
 
 
 <div align="center">
-  <h1>💻 Tech Stack:</h1>
+  <h1>💻 Tech Stack :</h1>
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bots,discordjs,express,ai,lua,mongodb,nodejs,ps,pr,react,robloxstudio,ts,vscode,vercel)](https://skillicons.dev)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsherr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
