@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://egirl.ing/" >
+  <a href="https://parsher.xyz" >
    <img src="https://lanyard.kyrie25.me/api/689447667465453599?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
 </div>
