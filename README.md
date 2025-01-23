@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://parsher.xyz" >
    <img src="https://lanyard.kyrie25.me/api/689447667465453599?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+<!--     ...api/689447667465453599?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" : banner-->
   </a>
 </div>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
@@ -18,7 +19,10 @@
 <b>Wanna full stack</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </li>
 <li>
-<b>Gender:</b> he/him/Male
+<b>Pronounce:</b> he/him
+</li>
+<li>
+<b>Gender:</b> Male
 </li>
 <li>
 <b>Site:</b> https://parsher.xyz
