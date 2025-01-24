@@ -31,6 +31,13 @@
 <b>Hobbys:</b> Digital drawing, Making youtube videos and Software.
 </li>
 
+## My Projects ✨
+
+- [🌎 My Personal Website](https://parsher.xyz), made with Next.js, TypeScript, React.js, and TailwindCSS. It uses Discord Lanyard's API to includes a activity and profile sections, and it uses github api for take my repos.
+- [📖 setscript.com](https://setscript.com), its my biggest project. made with Next.js, Typescript, React.js. It uses Github developer API  to includes all profiles and repositories.
+- [🖥️ abone-rol discord bot](https://www.abonerol.site/), this bot just for youtubers. if you have a youtube channel and you need to give subs role to anyone, this bot for you!
+- [🛠️ Discord Developerment server ](https://discord.gg/bdfd), a Discord server for discord developers. In this community, we are helping to sb who needs to help and we are sharing many open-source projects ^^
+
 <img src="./status.svg" width="10000">
 <div align="center">
 <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Page Views:</h1>
