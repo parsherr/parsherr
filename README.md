@@ -27,14 +27,14 @@
 <b>Gender:</b> Male
 </li>
 <li>
-<b>Site:</b> https://parsher.xyz
+<b>Portfolio:</b> https://parsher.xyz
 </li>
 <li>
 <b>Hobbys:</b> Digital drawing, Making youtube videos and Software.
 </li>
 </br></br>
 
-## My Projects ✨
+## My Projects
 
 - [🌎 My Personal Website](https://parsher.xyz), made with Next.js, TypeScript, React.js, and TailwindCSS. It uses Discord Lanyard's API to includes a activity and profile sections, and it uses github api for take my repos.
 - [📖 setscript.com](https://setscript.com), its my biggest project. made with Next.js, Typescript, React.js. It uses Github developer API  to includes all profiles and repositories.
@@ -42,7 +42,8 @@
 - [🛠️ Discord Developerment server ](https://discord.gg/bdfd), a Discord server for discord developers. In this community, we are helping to sb who needs to help and we are sharing many open-source projects ^^
 
 <div align="center">
-  <h1>Tech Stack :</h1>
+  
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,express,lua,mongodb,nodejs,ps,pr,ae,react,robloxstudio,ts)](https://parsher.xyz)
 [![My Skills](https://skillicons.dev/icons?i=vscode,vercel,bun,git,bootstrap,cloudflare,electron,md,npm,obsidian,powershell,stackoverflow,tailwind)](https://parsher.xyz)
@@ -51,7 +52,7 @@
 
 <div align="center">
 <!--kullanırken alta alırsın <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">-->
-<h4>Page Views:</h4>
+<h4>Page Views</h4>
 <img src="https://count.getloli.com/get/@parsherr?theme=gelbooru">
 </div>
 
