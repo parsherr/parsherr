@@ -42,10 +42,11 @@
 - [🛠️ Discord Developerment server ](https://discord.gg/bdfd), a Discord server for discord developers. In this community, we are helping to sb who needs to help and we are sharing many open-source projects ^^
 
 <div align="center">
-  <h1>💻 Tech Stack :</h1>
+  <h1>Tech Stack :</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,express,lua,mongodb,nodejs,ps,pr,ae,react,robloxstudio,ts,vscode,vercel,bun,git,bootstrap,cloudflare,electron,md,npm,obsidian,powershell,stackoverflow,tailwind)](https://parsher.xyz)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsherr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,express,lua,mongodb,nodejs,ps,pr,ae,react,robloxstudio,ts)](https://parsher.xyz)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vercel,bun,git,bootstrap,cloudflare,electron,md,npm,obsidian,powershell,stackoverflow,tailwind)](https://parsher.xyz)
+<!-- github tech usage starts ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsherr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 </div>
 
 <div align="center">
@@ -56,14 +57,13 @@
 
 
 <!--<img src="./status.svg" width="10000">-->
-<div align="center">
+<!--<div align="center">
   <h4>Me:</h4>
   <a href="https://parsher.xyz" >
    <img src="https://lanyard.kyrie25.me/api/689447667465453599?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
-<!--     ...api/689447667465453599?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" : banner-->
   </a>
-</div>
-
+</div>-->
+<!--  lanyard banner çekmek için :   ...api/689447667465453599?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"-->
 
 
 
