@@ -6,7 +6,7 @@
 | [setscript.com](https://www.setscript.com) | [parsher.xyz](https://www.parsher.xyz/) |
 | --- | --- |
 | ![](https://github.com/user-attachments/assets/6e58d992-064e-44bb-a198-c1ddac146fbe) | ![](https://github.com/user-attachments/assets/d6fde790-0109-4a83-bbab-c0376c5d9c64) |
-| Links: [go site](https://www.setscript.com) | Links: [go site](https://www.parsher.xyz/) |
+| Links: [go site](https://www.setscript.com) - [organization](https://github.com/setscript) - [desktop app](https://github.com/setscript/SetScript-Desktop) - [discord](https://discord.gg/qEmGxaDUfY) | Links: [go site](https://www.parsher.xyz/) |
 
 # 💫 About Me: 
 <!--bunu üst satıra alırsın kullanırsan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
