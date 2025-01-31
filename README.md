@@ -11,7 +11,8 @@
 # 💫 About Me: 
 <!--bunu üst satıra alırsın kullanırsan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+
+<img src="https://github.com/user-attachments/assets/cc5f597d-1b87-4e13-91a3-d737d0bc1627" align="right">
   </div>
   <li>
  <b>Age:</b> 17</li>
