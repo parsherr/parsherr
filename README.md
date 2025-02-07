@@ -55,7 +55,8 @@
 <div align="center">
 <!--kullanırken alta alırsın <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">-->
 <h4>Page Views</h4>
-<img src="https://count.getloli.com/get/@parsherr?theme=gelbooru">
+<img src="https://count.getloli.com/get/@parsherr?theme=gelbooru"> 
+<!-- <br /> <img src="https://count.getloli.com/get/@parsherr?theme=booru-lewd"> with animation-->
 </div>
 
 
