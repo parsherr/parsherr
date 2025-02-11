@@ -38,7 +38,7 @@
 ## My Projects
 
 - [🌎 My Personal Website](https://parsher.xyz), made with Next.js, TypeScript, React.js, and TailwindCSS. It uses Discord Lanyard's API to includes a activity and profile sections, and it uses github api for take my repos. its also [open-source](https://github.com/parsherr/modern-portfolio)
-- [📖 setscript.com](https://setscript.com), its my biggest project. made with Next.js, Typescript, React.js. It uses Github developer API  to includes all profiles and repositories.
+- [📖 setscript.com](https://setscript.com), its my biggest project. made with Next.js, Typescript, React.js and TailwindCSS. It uses Github developer API  to includes all profiles and repositories.
 - [📚 developer.setscript.com](https://developer.setscript.com), a comprehensive documentation platform I built using **Next.js, TypeScript, and React.js**. It provides structured and interactive guides, making it easy for developers to explore APIs, and more!🚀
 - [🖥️ abone-rol discord bot](https://www.abonerol.site/), this bot just for youtubers. if you have a youtube channel and you need to give subs role to anyone, this bot for you!
 - [🛠️ Discord Developerment server ](https://discord.gg/bdfd), a Discord server for discord developers. In this community, we are helping to sb who needs to help and we are sharing many open-source projects ^^
