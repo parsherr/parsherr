@@ -6,7 +6,7 @@
 | [setscript.com](https://www.setscript.com) | [parsher.xyz](https://www.parsher.xyz/) |
 | --- | --- |
 | ![](https://github.com/user-attachments/assets/6e58d992-064e-44bb-a198-c1ddac146fbe) | ![](https://github.com/user-attachments/assets/d6fde790-0109-4a83-bbab-c0376c5d9c64) |
-| Links: [go site](https://www.setscript.com) ・ [github organization](https://github.com/setscript) ・ [desktop app](https://github.com/setscript/SetScript-Desktop) ・ [discord](https://discord.gg/qEmGxaDUfY) | Links: [go site](https://www.parsher.xyz/) ・ [github repo](https://github.com/parsherr/modern-portfolio)|
+| Links: [site](https://www.setscript.com) ・ [docs](https://www.setscript.com) ・ [organization](https://github.com/setscript) ・ [desktop app](https://github.com/setscript/SetScript-Desktop) ・ [discord](https://discord.gg/qEmGxaDUfY) | Links: [go site](https://www.parsher.xyz/) ・ [github repo](https://github.com/parsherr/modern-portfolio)|
 
 # 💫 About Me: 
 <!--bunu üst satıra alırsın kullanırsan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
@@ -39,9 +39,10 @@
 
 - [🌎 My Personal Website](https://parsher.xyz), made with Next.js, TypeScript, React.js, and TailwindCSS. It uses Discord Lanyard's API to includes a activity and profile sections, and it uses github api for take my repos. its also [open-source](https://github.com/parsherr/modern-portfolio)
 - [📖 setscript.com](https://setscript.com), its my biggest project. made with Next.js, Typescript, React.js. It uses Github developer API  to includes all profiles and repositories.
+- [📚 developer.setscript.com](https://developer.setscript.com), a comprehensive documentation platform I built using **Next.js, TypeScript, and React.js**. It provides structured and interactive guides, making it easy for developers to explore APIs, and more!🚀
 - [🖥️ abone-rol discord bot](https://www.abonerol.site/), this bot just for youtubers. if you have a youtube channel and you need to give subs role to anyone, this bot for you!
 - [🛠️ Discord Developerment server ](https://discord.gg/bdfd), a Discord server for discord developers. In this community, we are helping to sb who needs to help and we are sharing many open-source projects ^^
-- [🎀 Parsher's world ](https://parshers-world.vercel.app/), my kawaiiest [open-source](https://github.com/parsherr/kawai-site/) projects ^^
+- [🎀 Parsher's world ](https://parshers-world.vercel.app/), my kawaiiest [open-source](https://github.com/parsherr/kawai-site/) projects :3
 
 <div align="center">
   
