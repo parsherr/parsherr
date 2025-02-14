@@ -42,7 +42,7 @@
 - [📚 developer.setscript.com](https://developer.setscript.com), a comprehensive documentation platform I built using **Next.js, TypeScript, and React.js**. It provides structured and interactive guides, making it easy for developers to explore APIs, and more!🚀
 - [🖥️ abone-rol discord bot](https://www.abonerol.site/), this bot just for youtubers. if you have a youtube channel and you need to give subs role to anyone, this bot for you! and site of the bot is [open-source](https://github.com/parsherr/Bot-Site-Template)
 - [🛠️ Discord Developerment server ](https://discord.gg/bdfd), a Discord server for discord developers. In this community, we are helping to sb who needs to help and we are sharing many open-source projects ^^
-- [⌨️ Text Speed Test](https://github.com/parsherr/text-speed-test), a simple and interactive typing speed test made with **JavaScript, CSS, and HTML**. It measures how fast you can type and provides real-time feedback. Btw its [open-source](https://github.com/parsherr/typing-speed-test), 🚀 Try it out and challenge yourself!
+- [⌨️ Text Speed Test](https://typing-speed-test-blue-zeta.vercel.app/), a simple and interactive typing speed test made with **JavaScript, CSS, and HTML**. It measures how fast you can type and provides real-time feedback. Btw its [open-source](https://github.com/parsherr/typing-speed-test), 🚀 Try it out and challenge yourself!
 - [🎀 Parsher's world ](https://parshers-world.vercel.app/), my kawaiiest [open-source](https://github.com/parsherr/kawai-site/) projects :3
 
 <div align="center">
