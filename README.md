@@ -35,7 +35,7 @@
 </li>
 </br></br>
 
-## My Projects https://github.com/parsherr/Bot-Site-Template
+## My Projects
 
 - [🌎 My Personal Website](https://parsher.xyz), made with Next.js, TypeScript, React.js, and TailwindCSS. It uses Discord Lanyard's API to includes a activity and profile sections, and it uses github api for take my repos. its also [open-source](https://github.com/parsherr/modern-portfolio)
 - [📖 setscript.com](https://setscript.com), its my biggest project. made with Next.js, Typescript, React.js and TailwindCSS. It uses Github developer API  to includes all profiles and repositories.
