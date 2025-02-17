@@ -44,6 +44,7 @@
 - [🛠️ Discord Developerment server ](https://discord.gg/bdfd), a Discord server for discord developers. In this community, we are helping to sb who needs to help and we are sharing many open-source projects ^^
 - [⌨️ Text Speed Test](https://typing-speed-test-blue-zeta.vercel.app/), a simple and interactive typing speed test made with **JavaScript, CSS, and HTML**. It measures how fast you can type and provides real-time feedback. Btw its [open-source](https://github.com/parsherr/typing-speed-test), 🚀 Try it out and challenge yourself!
 - [🎀 Parsher's world ](https://parshers-world.vercel.app/), my kawaiiest [open-source](https://github.com/parsherr/kawai-site/) projects :3
+- [📢 Discord Embed Builder](http://us1.botcore.org:5016/), an advanced embed message builder for Discord. Built with **Node.js, Express.js, EJS, Discord.js, TailwindCSS, and FontAwesome**, it provides an intuitive UI for creating and sending webhook messages. It's also [open-source](https://github.com/parsherr/discord-embed-builder).
 
 <div align="center">
   
