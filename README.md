@@ -8,6 +8,10 @@
 | ![](https://github.com/user-attachments/assets/6e58d992-064e-44bb-a198-c1ddac146fbe) | ![](https://github.com/user-attachments/assets/d6fde790-0109-4a83-bbab-c0376c5d9c64) |
 | Links: [site](https://www.setscript.com) ・ [docs](https://developer.setscript.com/) ・ [organization](https://github.com/setscript) ・ [desktop app](https://github.com/setscript/SetScript-Desktop) ・ [discord](https://discord.gg/qEmGxaDUfY) | Links: [go site](https://www.parsher.xyz/) ・ [github repo](https://github.com/parsherr/modern-portfolio)|
 
+<a href="https://discord.com/users/1193730158042021988">
+    <img src="https://api.oktaydev.online/users/card/1193730158042021988?img" width="300">
+</a>
+
 # 💫 About Me: 
 <!--bunu üst satıra alırsın kullanırsan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
   <div align="center">
