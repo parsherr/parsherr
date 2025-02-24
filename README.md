@@ -46,6 +46,7 @@ Full-Stack <b>Web Developer</b> <img src="https://media.giphy.com/media/WUlplcMp
 - [🎀 Parsher's world ](https://parshers-world.vercel.app/), my kawaiiest [open-source](https://github.com/parsherr/kawai-site/) projects :3
 - [📢 Discord Embed Builder](http://us1.botcore.org:5016/), an advanced embed message builder for Discord. Built with **Node.js, Express.js, EJS, Discord.js, TailwindCSS, and FontAwesome**, it provides an intuitive UI for creating and sending webhook messages. It's also [open-source](https://github.com/parsherr/discord-embed-builder).
 - [🌐 Discord API](https://api.setscript.com/) – Web based, Discord Presence API built with Express.js, Node.js, and Discord.js for easily sharing your Discord status and activity via RESTful API and WebSocket. also has HTML Card API for github readme and html files.
+- [💻 Terminal Portfolio](https://terminal-portfolio-teal.vercel.app) is a modern terminal-style portfolio website. Developed with **Next.js, TypeScript, React.js, and Styled Components**. Includes 7 different themes, keyboard shortcuts, command history and ASCII art. It has a fully responsive and modern design. Also developed as [open-source](https://github.com/parsherr/terminal-portfolio).
 
 <div align="center">
   
