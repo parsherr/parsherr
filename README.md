@@ -9,7 +9,7 @@
 | Links: [site](https://www.setscript.com) ・ [docs](https://developer.setscript.com/) ・ [organization](https://github.com/setscript) ・ [desktop app](https://github.com/setscript/SetScript-Desktop) ・ [discord](https://discord.gg/qEmGxaDUfY) | Links: [go site](https://www.parsher.xyz/) ・ [github repo](https://github.com/parsherr/modern-portfolio)|
 
 <a href="https://discord.com/users/1193730158042021988" align="center">
-    <img src="https://api.setscript.com/users/card/689447667465453599?img">
+    <img src="https://api.setscript.com/users/card/689447667465453599?img" width="330">
 </a>
 
 # 💫 About Me: 
