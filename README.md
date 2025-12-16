@@ -16,7 +16,7 @@
 <img src="https://github.com/user-attachments/assets/cc5f597d-1b87-4e13-91a3-d737d0bc1627" align="right">
   </div>
   <li>
- <b>Age:</b> 17</li>
+ <b>Age:</b> 18</li>
   <li>
  <b>Live in:</b> Turkey</li>
 <li>
@@ -32,7 +32,7 @@ Full-Stack <b>Web Developer</b> <img src="https://media.giphy.com/media/WUlplcMp
 <b>Portfolio:</b> https://parsher.xyz
 </li>
 <li>
-<b>Hobbys:</b> Digital drawing, Making youtube videos and Software.
+<b>Hobbys:</b> Making youtube videos and Software.
 </li>
 </br></br>
 
