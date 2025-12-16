@@ -2,11 +2,11 @@
 <img src="./header.svg" width="10000"> -->
 
 #### My biggest websites
-
-| [setscript.com](https://www.setscript.com) | [parsher.xyz](https://www.parsher.xyz/) |
-| --- | --- |
-| ![](https://github.com/user-attachments/assets/6e58d992-064e-44bb-a198-c1ddac146fbe) | ![](https://github.com/user-attachments/assets/d6fde790-0109-4a83-bbab-c0376c5d9c64) |
-| Links: [site](https://www.setscript.com) ・ [docs](https://developer.setscript.com/) ・ [organization](https://github.com/setscript) ・ [desktop app](https://github.com/setscript/SetScript-Desktop) ・ [discord](https://discord.gg/qEmGxaDUfY) | Links: [go site](https://www.parsher.xyz/) ・ [github repo](https://github.com/parsherr/modern-portfolio)|
+<!-- https://github.com/user-attachments/assets/d6fde790-0109-4a83-bbab-c0376c5d9c64 -->
+| [setscript.com](https://www.setscript.com) | [parsher.xyz](https://www.parsher.xyz/) | [fastui.site](https://www.parsher.xyz/) |
+| --- | --- | --- |
+| ![](https://github.com/user-attachments/assets/6e58d992-064e-44bb-a198-c1ddac146fbe) | ![](https://github.com/user-attachments/assets/75456e16-e8da-4847-bc7e-65deba8a3c33) | ![](https://github.com/user-attachments/assets/a3adcced-4a7e-423f-8805-b129246f1cef) | 
+| Links: [site](https://www.setscript.com) ・ [docs](https://developer.setscript.com/) ・ [organization](https://github.com/setscript) ・ [desktop app](https://github.com/setscript/SetScript-Desktop) ・ [discord](https://discord.gg/qEmGxaDUfY) | Links: [go site](https://www.parsher.xyz/) ・ [github repo](https://github.com/parsherr/modern-portfolio)| Links: [go site](https://www.fastui.site/) ・ [github repo](https://github.com/parsherr/fastui)・ [organization](https://github.com/fastui-templates)|
 
 
 # 💫 About Me: 
