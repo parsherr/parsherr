@@ -9,7 +9,6 @@
   Contact on [dogukanalpt@gmail.com](mailto:dogukanalpt@gmail.com) 
 </div>
 
-#### My biggest websites
 <!-- https://github.com/user-attachments/assets/d6fde790-0109-4a83-bbab-c0376c5d9c64 -->
 | [setscript.com](https://www.setscript.com) | [parsher.xyz](https://www.parsher.xyz/) | [fastui.site](https://www.parsher.xyz/) |
 | --- | --- | --- |
@@ -21,7 +20,7 @@
  <!-- parsher art <img src="https://github.com/user-attachments/assets/cc5f597d-1b87-4e13-91a3-d737d0bc1627" align="right">   -->
   
 
-## My Projects
+## Other Open-Source Projects
 
 - [🌎 My Personal Website](https://parsher.xyz), made with Next.js, TypeScript, React.js, and TailwindCSS. It uses Discord Lanyard's API to includes a activity and profile sections, and it uses github api for take my repos. its also [open-source](https://github.com/parsherr/modern-portfolio)
 - [📖 setscript.com](https://setscript.com), its my biggest project. made with Next.js, Typescript, React.js and TailwindCSS. It uses Github developer API  to includes all profiles and repositories.
