@@ -1,5 +1,13 @@
 <!-- <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <img src="./header.svg" width="10000"> -->
+<div align="center">
+  <h1 align="center">👋 Hey, I'm Dogukan! </h1>
+<p>
+ 🎉 Hey there, I'm Dogukan, a full stack developer with a passion for creating beautiful and interactive web experiences. I love working with modern web technologies like React, Next, as well as using Node.js for server-side development. I'm a self-taught learner who is always looking to improve my skills and keep up with the latest industry trends. When it comes to projects, I can work solo or as part of a team, and I like to keep things fun and collaborative. If you'd like to learn more about my experience and skills, you can check out my resume or my website.
+</p>
+
+  Contact on [dogukanalpt@gmail.com](mailto:dogukanalpt@gmail.com) 
+</div>
 
 #### My biggest websites
 <!-- https://github.com/user-attachments/assets/d6fde790-0109-4a83-bbab-c0376c5d9c64 -->
@@ -9,32 +17,9 @@
 | Links: [site](https://www.setscript.com) ・ [docs](https://developer.setscript.com/) ・ [organization](https://github.com/setscript) ・ [desktop app](https://github.com/setscript/SetScript-Desktop) ・ [discord](https://discord.gg/qEmGxaDUfY) | Links: [go site](https://www.parsher.xyz/) ・ [github repo](https://github.com/parsherr/modern-portfolio)| Links: [go site](https://www.fastui.site/) ・ [github repo](https://github.com/parsherr/fastui)・ [organization](https://github.com/fastui-templates)|
 
 
-# 💫 About Me: 
-<!--bunu üst satıra alırsın kullanırsan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
-  <div align="center">
-    
-  <img src="https://github.com/user-attachments/assets/cc5f597d-1b87-4e13-91a3-d737d0bc1627" align="right">  
-  </div>
-  <li>
- <b>Age:</b> 18</li>
-  <li>
- <b>Live in:</b> Turkey</li>
-<li>
-Full-Stack <b>Web Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</li>
-<li>
-<b>Pronounce:</b> he/him
-</li>
-<li>
-<b>Gender:</b> Male
-</li>
-<li>
-<b>Portfolio:</b> https://parsher.xyz
-</li>
-<li>
-<b>Hobbys:</b> Making youtube videos and Software.
-</li>
-</br></br>
+<!--typin animal <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
+ <!-- parsher art <img src="https://github.com/user-attachments/assets/cc5f597d-1b87-4e13-91a3-d737d0bc1627" align="right">   -->
+  
 
 ## My Projects
 
@@ -55,9 +40,10 @@ Full-Stack <b>Web Developer</b> <img src="https://media.giphy.com/media/WUlplcMp
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,express,lua,mongodb,nodejs,ps,pr,ae,react,robloxstudio,ts)](https://parsher.xyz)
-[![My Skills](https://skillicons.dev/icons?i=vscode,vercel,bun,git,bootstrap,cloudflare,electron,md,npm,obsidian,powershell,stackoverflow,tailwind,figma)](https://parsher.xyz)
-<!-- github tech usage starts ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsherr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+[![My Skills](https://skillicons.dev/icons?i=vscode,vercel,bun,git,bootstrap,cloudflare,electron,md,npm,obsidian,powershell,stackoverflow,tailwind,figma)](https://parsher.xyz) 
 </div>
+<!-- github tech usage starts ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsherr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+
 
 <!-- <div align="center"> -->
 <!--kullanırken alta alırsın <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">-->
