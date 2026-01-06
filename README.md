@@ -38,8 +38,23 @@
   
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,express,lua,mongodb,nodejs,ps,pr,ae,react,robloxstudio,ts)](https://parsher.xyz)
-[![My Skills](https://skillicons.dev/icons?i=vscode,vercel,bun,git,bootstrap,cloudflare,electron,md,npm,obsidian,powershell,stackoverflow,tailwind,figma)](https://parsher.xyz) 
+<p align="center">
+  <a href="https://parsher.xyz">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,supabase&perline=9" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://parsher.xyz">
+    <img src="https://skillicons.dev/icons?i=docker,linux,arch,bash,git,cloudflare,aws,githubactions&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://parsher.xyz">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vscode,figma,ps,pr&perline=8" />
+  </a>
+</p>
 </div>
 <!-- github tech usage starts ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsherr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
